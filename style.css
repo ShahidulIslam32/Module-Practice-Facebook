@@ -46,3 +46,36 @@
     font-weight: 500;
     font-size: 15px;
 }
+
+
+/* down part */ 
+
+
+.language ul{
+    list-style: none;
+    display: flex;
+    margin-top: 17px;
+}
+.language ul li{
+    margin-right: 12px;
+    font-size: 14px;
+    color: #605b5bd2;
+
+}
+
+.languages ul{
+    list-style: none;
+    display: flex;
+    margin-top: 17px;
+}
+.languages ul li{
+    margin-right: 10px;
+    font-size: 14px;
+    color: #605b5bd2;
+
+}
+.down-part{
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+}
