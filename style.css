@@ -1,0 +1,38 @@
+.defination img{
+    width: 280px;
+}
+.defination h3{
+    font-size: 28px;
+    font-weight:400;
+}
+.button{
+    margin-left: 70px;
+    font-size: 17px;
+    font-weight: 500;
+}
+.logbtn{
+    font-size: 17px;
+    font-weight: 700;
+}
+.total-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 200px;
+    width: 960px;
+}
+.input-box{
+    height: 341px;
+    background-color:#fff;
+    padding:23px;
+    border-radius: 7px;
+    margin-top: -70px;
+    box-shadow: 50px 56px 78px -90px gray;
+}
+.upper-part{
+    background-color: #605b5b13;
+    height: 670px;
+}
+.input-box input{
+    padding: left 25px;
+    height: 50px;
+}
